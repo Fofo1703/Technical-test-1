@@ -16,5 +16,7 @@ el primer digito no puede ser 0
 
 ##carpeta dist
 Esta carpeta contiene la construccion del proyecto realizado en react 
-para ver esta solucion con la interfaz se deben usar los siguientes comendos, primero npm install -g serve y segundo serve -s dist
+para ver esta solucion con la interfaz se deben usar los siguientes comendos, 
+npm install -g serve
+serve -s dist
 para levantar la construccion en el navegador 
