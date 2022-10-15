@@ -1,22 +1,24 @@
 # Technical-test-1
 ##javaScript
-Para la creacion de la solucion para la prueba en javaScript utilice la version de node.js 14.15.5
+Para la creación de la solución para la prueba en javaScript utilicé la versión de node.js 14.15.5
 para ejecutar el archivo utilizar los comandos
 npm install 
 npm run dev
-la cantidad maxima de digitos permitidos es de 16 debido a que si sobrepasa esta cantidad se da un desbordamiento en la variable entera
-el primer digito no puede ser 0
+la cantidad máxima de dígitos permitidos es de 16 debido a que si sobrepasa esta cantidad se da un desbordamiento en la variable entera
+el primer dígito no puede ser 0
 
 ##Python
-Para la creacion de la solucion para la prueba en python utilice la version 3.10.8
+Para la creación de la solución para la prueba en python utilicé la versión 3.10.8
 para ejecutar el archivo utilizar el comando 
 py test.py
-la cantidad maxima de digitos permitidos es de 16 debido a que si sobrepasa esta cantidad se da un desbordamiento en la variable entera
-el primer digito no puede ser 0
+la cantidad máxima de dígitos permitidos es de 16 debido a que si sobrepasa esta cantidad se da un desbordamiento en la variable entera
+el primer dígito no puede ser 0
 
 ##carpeta dist
-Esta carpeta contiene la construccion del proyecto realizado en react 
-para ver esta solucion con la interfaz se deben usar los siguientes comendos, 
+Esta carpeta contiene la construcción del proyecto realizado en react 
+para ver esta solución con la interfaz se deben usar los siguientes comandos, 
 npm install -g serve
 serve -s dist
-para levantar la construccion en el navegador 
+para levantar la construcción en el navegador 
+la cantidad máxima de dígitos permitidos es de 16, debido a que si sobrepasa esta cantidad se da un desbordamiento en la variable entera
+el primer dígito no puede ser 0
